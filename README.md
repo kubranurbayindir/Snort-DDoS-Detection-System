@@ -1,4 +1,44 @@
 # Snort-DDoS-Detection-System
 We examine the DDoS attack application by detecting it with Snort by making Kali Linux Hping sampling. 
 
-<h2><a id="user-content-project-name" class="anchor" aria-hidden="true" href="#project-name"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><em>Project Name</em></h2>
+# Project Name
+Web Application Security - DDos Attack Defend Systems with Snort
+
+# What Is DDoS Attack And How To DDoS? 
+
+#1) DDoS (Distributed Denial of Service) attack is basically used to flood out network resources so that a user will not get access to the important information and will slow down the performance of application associated.
+
+#2) It usually uses Trojan to infect a system and as it comes from multiple sources it is difficult to identify the appropriate origin of the attack.
+
+#3) Until now there are few symptoms that have been traced to identify that your system is being targeted by DDoS.
+
+They are as follows:
+
+* Degraded network performance.
+* Unable to access any website.
+* Frequently losing network connection.
+* Unable to access network services for a long time period.
+* Having problems accessing all websites,
+*	Receiving an excessive amount of spam e-mails.
+![banner resmi](https://im0-tub-tr.yandex.net/i?id=6a08f5ad2c5b0e6aef8ec998511d5258&n=13)
+# Types of DDoS Attack
+A DDoS assault is categorized into a few sorts, but basically there are 3 sorts only. 
+* Activity Attack/Fragmentation Attack 
+* Transmission capacity Attack/Volumetric Attack
+* Application Attack 
+
+# Typical Targets of DDoS Attacks
+*	Internet shopping sites
+*	Online casinos
+* Any business or organization that relies on providing online service
+
+# Implementing DDoS Attack
+[DDos Attack Drive Link](https://disk.yandex.com.tr/i/2vGNSqX_KAuUhA)
+
+# DDoS Attack Prevention
+DDoS assault is troublesome to recognize and halt there are a few realities taken into thought such as: 
+*	Identify organize vulnerabilities that can ended up bottlenecks. 
+*	Constant perception of developments taking put on the network. 
+*	Check for bundle surge and application-layer attack. 
+*	Detection of assaults that can influence a few frameworks at a time.
+

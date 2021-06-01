@@ -21,9 +21,7 @@ They are as follows:
 * Frequently losing network connection.
 * Unable to access network services for a long time period.
 * Having problems accessing all websites,
-*	Receiving an excessive amount of spam e-mails. </br>
-</br>
-![banner resmi](https://im0-tub-tr.yandex.net/i?id=6a08f5ad2c5b0e6aef8ec998511d5258&n=13) </br>
+*	Receiving an excessive amount of spam e-mails.
 
 # Types of DDoS Attack
 A DDoS assault is categorized into a few sorts, but basically there are 3 sorts only. 
@@ -31,6 +29,7 @@ A DDoS assault is categorized into a few sorts, but basically there are 3 sorts 
 * Transmission capacity Attack/Volumetric Attack
 * Application Attack 
 
+![banner resmi2](https://im0-tub-tr.yandex.net/i?id=6a08f5ad2c5b0e6aef8ec998511d5258&n=13) </br>
 # Typical Targets of DDoS Attacks
 *	Internet shopping sites
 *	Online casinos

@@ -23,7 +23,8 @@ They are as follows:
 * Having problems accessing all websites,
 *	Receiving an excessive amount of spam e-mails. </br>
 </br>
-![banner resmi](https://im0-tub-tr.yandex.net/i?id=6a08f5ad2c5b0e6aef8ec998511d5258&n=13)
+![banner resmi](https://im0-tub-tr.yandex.net/i?id=6a08f5ad2c5b0e6aef8ec998511d5258&n=13) </br>
+
 # Types of DDoS Attack
 A DDoS assault is categorized into a few sorts, but basically there are 3 sorts only. 
 * Activity Attack/Fragmentation Attack 

@@ -1,10 +1,9 @@
-![banner resmi](https://sun9-51.userapi.com/impf/YAaP6tP9gMMt_UkYniLIlVNoQulPKMXlp7r7dw/mJ0Iolr9Mls.jpg?size=537x215&quality=96&proxy=1&sign=b339920770f13a47c637e6b2de7fb618&type=share) </br>
 # Snort-DDoS-Detection-System
 We examine the DDoS attack application by detecting it with Snort by making Kali Linux Hping sampling. 
 
 # Project Name
-Web Application Security - DDos Attack Defend Systems with Snort
-
+Web Application Security - DDos Attack Defend Systems with Snort</br>
+![banner resmi](https://sun9-51.userapi.com/impf/YAaP6tP9gMMt_UkYniLIlVNoQulPKMXlp7r7dw/mJ0Iolr9Mls.jpg?size=537x215&quality=96&proxy=1&sign=b339920770f13a47c637e6b2de7fb618&type=share) </br>
 # What Is DDoS Attack And How To DDoS? 
 
 #1) DDoS (Distributed Denial of Service) attack is basically used to flood out network resources so that a user will not get access to the important information and will slow down the performance of application associated.

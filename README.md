@@ -45,3 +45,7 @@ DDoS assault is troublesome to recognize and halt there are a few realities take
 *	Check for bundle surge and application-layer attack. 
 *	Detection of assaults that can influence a few frameworks at a time.
 
+
+![image](https://user-images.githubusercontent.com/83094285/120609510-e6032a80-c45a-11eb-81b8-a8650eec8ebd.png) </br>
+![image](https://user-images.githubusercontent.com/83094285/120609588-fd421800-c45a-11eb-8996-dcc6e70c2110.png)
+
